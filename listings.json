@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/boxloop.html",
@@ -8,9 +12,5 @@
       "/posts/lawoflargenumbers.html",
       "/posts/vizasstory.html"
     ]
-  },
-  {
-    "listing": "/about.html",
-    "items": []
   }
 ]
